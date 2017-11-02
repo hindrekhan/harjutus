@@ -1,0 +1,7 @@
+C:\Users\opilane\Documents\hannus\objektid\objektid\bin\Debug\objektid.exe.config
+C:\Users\opilane\Documents\hannus\objektid\objektid\bin\Debug\objektid.exe
+C:\Users\opilane\Documents\hannus\objektid\objektid\bin\Debug\objektid.pdb
+C:\Users\opilane\Documents\hannus\objektid\objektid\obj\Debug\objektid.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\hannus\objektid\objektid\obj\Debug\objektid.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\hannus\objektid\objektid\obj\Debug\objektid.exe
+C:\Users\opilane\Documents\hannus\objektid\objektid\obj\Debug\objektid.pdb
